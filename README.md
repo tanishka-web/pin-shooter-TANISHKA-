@@ -1,1 +1,2 @@
-# pin-shooter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
